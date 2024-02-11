@@ -6,6 +6,10 @@
 
 .main__title {
   margin: 70px auto 30px 0;
+  font-family: 'Roboto', 'Inter', 'Arial', 'sans-serif';
+  font-size: 36px;
+  font-weight: 500;
+  line-height:   57.6px;
 }
 
 .main__container {
