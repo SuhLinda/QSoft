@@ -35,6 +35,7 @@
   background-size: cover;
   height: 64px;
   margin: 0 auto;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 1350px) {
